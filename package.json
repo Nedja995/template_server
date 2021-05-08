@@ -54,7 +54,7 @@
     "sinon": "^4.5.0",
     "swagger-ui-express": "^3.0.6",
     "tsoa": "2.4.3",
-    "typeorm": "^0.2.9",
+    "typeorm": "^0.2.25",
     "umzug": "^2.1.0",
     "uuid": "^3.2.1",
     "winston": "^3.0.0-rc4"
