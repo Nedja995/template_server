@@ -36,7 +36,7 @@
   "author": "Nedeljko Pejašinović",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.217.1",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "cross-env": "^5.1.4",
     "dotenv": "^5.0.1",
